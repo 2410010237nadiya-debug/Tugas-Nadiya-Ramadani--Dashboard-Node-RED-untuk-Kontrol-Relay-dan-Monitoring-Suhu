@@ -4,5 +4,5 @@
 ![Foto Dashboard](foto%20dashboard.png)
 
 ## Video Penjelasan
-<video src="Video%20Singkat%20Penjelasan%20Dashboard.mp4" controls="controls" style="max-width: 730px;">
-</video>
+https://github.com/user-attachments/assets/dea1cda0-94a1-471b-b7ee-d632e4e1590c
+
